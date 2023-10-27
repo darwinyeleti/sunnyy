@@ -1,1 +1,22 @@
-xn.cckbsofsjfmksncos  sojfnkdlfnsOKfls
+* git remote add branch/repo/link - adding repo into exited system git folder
+
+* git clone - coping the exicted git repo into the any folder in system 
+
+* cd path -   takes me into desired folder
+
+* sample.text -  added in my folder 
+
+*  git status -  knowing the status of added file in folder
+
+* git add .  -  adds all the changes in the files irrespective of paths
+
+* git add path -  adds required file or folder, 
+           (if needed to change any changes can do only in add phase)
+
+
+* git commit - commits all the changes into repo,(-m indicates message which should be in " ")
+
+* git push -  pushes all the commited changes into the repo 
+
+* git pull -  pulls the added file or new changes into the local git folder
+
