@@ -1,12 +1,12 @@
-* git remote add branch/repo/link - adding repo into exited system git folder
-
+     CLONING
+---------------------------------------------------------------------------
 * git clone - coping the exicted git repo into the any folder in system 
 
 * cd path -   takes me into desired folder
 
 * sample.text -  added in my folder 
 
-*  git status -  knowing the status of added/modified file in folder
+*  git status -  knowing the status of added/modified  file in folder
 
 * git add .  -  adds all the changes in the files irrespective of paths
 
@@ -20,4 +20,12 @@
 
 * git pull -  pulls the added file or new changes into the local git folder
 
+
+
+
+	REMOTE ADD
+----------------------------------------------------------
+
 * git init - initil git into local folder 
+
+* git remote add branch/repo/link - adding repo into exited system git folder
