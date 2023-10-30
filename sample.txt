@@ -28,4 +28,4 @@
 
 * git init - initil git into local folder 
 
-* git remote add branch/repo/link - adding repo into exited system git folder
+* git remote add branch/repo/link - adding repo into exited system git folder.
